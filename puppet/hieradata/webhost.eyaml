@@ -1,0 +1,8 @@
+---
+btsync::instances:
+  apache:
+    storage_path: /mnt/sync/config
+    shared_folders:
+      A5EAM7OPCOL3VEWPBO3NTVYNWC6FKNHOS:
+        dir: /var/www/sites
+    device_name: "Sync Server"
