@@ -1,0 +1,4 @@
+# Role specific modules
+mod 'puppetlabs-stdlib', '4.13.1'
+mod 'puppetlabs-apache', '1.10.0'
+mod 'example42-php', '2.0.27'
