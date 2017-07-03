@@ -13,9 +13,9 @@ jenkins::plugin_hash:
     'workflow-step-api':
       version: '2.6'
     'git-client':
-      version: '2.1.0'
+      version: '2.4.4'
     'mailer':
-      version: '1.18'
+      version: '1.20'
     'display-url-api':
       version: '0.5'
     'matrix-project':
