@@ -3,5 +3,4 @@ class role::jenkins {
   include ::profile::os_limits
 
   include ::profile::jenkins
-  include ::profile::terraform
 }
