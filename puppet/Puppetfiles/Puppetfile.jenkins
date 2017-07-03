@@ -1,3 +1,4 @@
 # Role specific modules
 mod 'rtyler-jenkins', '1.7.0'
 mod 'inkblot-terraform', '1.2.0'
+mod 'inkblot-hashicorp', '1.1.3'
