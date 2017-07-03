@@ -11,4 +11,4 @@ mod "maestrodev/wget", "1.5.6"
 mod "erwbgy/limits", "0.3.1"
 mod 'mitese-profile',
  :git => "https://github.com/neilmillard/puppet-profile.git",
- :ref => 'master'
+ :ref => '0.1.1'
